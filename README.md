@@ -1,4 +1,6 @@
 # MachineLearning
-Machine Learning
 Hi,
-This is my first "Real" try to do something on github !!
+I have taken two MOOCs over last 6 months in Machine Learning.
+
+I am adding the assignments completed in those courses in this repository.
+
